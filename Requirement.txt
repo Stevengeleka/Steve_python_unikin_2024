@@ -1,0 +1,10 @@
+
+1. pandas: Est une bibliothèque Python très populaire utilisée principalement pour la manipulation et l'analyse des données. 
+
+2. Fernet: Est utilisé pour chiffrer et déchiffrer des données de manière sécurisée en utilisant une clé partagée. Fernet utilise l'algorithme AES (Advanced Encryption Standard) en mode CBC (Cipher Block Chaining) avec une longueur de clé de 128 bits pour le chiffrement.
+
+3. hashlib:Est bibliothèque de Python qui offre des fonctionnalités pour calculer les valeurs de hachage de données en utilisant divers algorithmes de hachage, tels que MD5, SHA-1, SHA-256, SHA-512, etc.
+
+4. hmac: est une biblithèque qui permet de créer des codes d'authentification HMAC pour assurer l'intégrité et l'authenticité des données lors de leur transmission sur des réseaux non sécurisés ou lors de leur stockage. Cela renforce la sécurité des applications en ajoutant une couche de protection contre la falsification des données.
+
+5. cryptography : est une bibliothèque très puissante qui fournit des fonctionnalités pour implémenter diverses techniques de cryptographie et de sécurité des données. 
